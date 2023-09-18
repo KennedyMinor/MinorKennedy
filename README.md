@@ -17,7 +17,7 @@
 <h1>Video Editor</h1>
 
 <h3 align="left">Certification</h3>
-<h1>CERTIFIED ASSOCIATE (OCA) CERTIFICATE - ORACLE DATABASE ADMINISTRATOR</h1>
-<h1>https://www.oracle.com/cloud/</h1>
+<h1>CERTIFIED ASSOCIATE (OCA) CERTIFICATE - ORACLE DATABASE ADMINISTRATOR&nbsp;https://www.oracle.com/cloud/</h1>
+
 
 
