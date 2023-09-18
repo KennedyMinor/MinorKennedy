@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://www.bing.com/images/search?view=detailV2&ccid=o7pi2ud%2b&id=624D5441A5C0CA042510BA1B5D7383A28DA43FB5&thid=OIP.o7pi2ud-Ax9iE9w1h78JswHaE9&mediaurl=https%3a%2f%2fwww.thephotoargus.com%2fwp-content%2fuploads%2f2019%2f04%2fblackandwhitephoto01.jpg&exph=685&expw=1024&q=black+and+white&simid=608032430402645880&FORM=IRPRST&ck=6BA47ABD103E6810EB413693A131BBD1&selectedIndex=26&ajaxhist=0&ajaxserp=0))
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
