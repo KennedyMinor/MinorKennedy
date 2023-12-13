@@ -1,21 +1,40 @@
-<h1 align="center">Hi I'm Kennedy</h1>
+# Hi there! 👋 I'm Juan Dela Cruz
 
-<h3 align="left">About me:</h2>
-<h4>I am MInor Kennedy, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.</h4>
+Welcome to my GitHub profile! I'm passionate about coding and database management, always eager to tackle complex problems and craft elegant solutions. Currently pursuing my BS in Information Technology at New Era University.
 
-<h3 align="left">Education:</h2>
-<h4>BS Information Technology</h4></n>
-New Era University</n>
-2021-Present</h4>
+## Education
 
-<h3 align="left">Education:</h3>
-<h1>BS Information Technology</h1>
+- **BS Information Technology**
+  - *New Era University*
+  - *2021 - Present*
 
-<h3 align="left">Work Experience:</h3>
-<h1>Video Editor</h1>
+## Certifications
 
-<h3 align="left">Certification</h3>
-<h1>CERTIFIED ASSOCIATE (OCA) CERTIFICATE - ORACLE DATABASE ADMINISTRATOR&nbsp;https://www.oracle.com/cloud/</h1>
+- **NoSQL and DBaaS 101**
+  - [Certification Details](NoSQL_DBaaS_101_Certificate_Link)
 
+- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+  - [Certification Details](Oracle_Cloud_Data_Management_Certificate_Link)
 
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+  - [Certification Details](Oracle_Cloud_Infrastructure_Certificate_Link)
 
+## Skills
+
+- **Programming Languages:**
+  - Java
+  - Javascript
+
+- **Databases:**
+  - IBM DB2 Cloud
+
+- **Tools:**
+  - Lucidchart
+  - Jaspersoft Studio
+  - Eclipse
+  - HTML
+
+## Get in Touch
+
+- **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
+- **Email:** juandelacruz@gmail.com
