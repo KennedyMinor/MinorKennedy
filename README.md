@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm passionate about coding and database managemen
 ## Certifications
 
 - **NoSQL and DBaaS 101**
-  - [Certification Details]([NoSQL_DBaaS_101_Certificate_Link](https://courses.cognitiveclass.ai/certificates/1829525d502040bd9a57d6422b7a2baf))
+  - ([NoSQL_DBaaS_101_Certificate_Link](https://courses.cognitiveclass.ai/certificates/1829525d502040bd9a57d6422b7a2baf))
 
 - **Oracle Cloud Data Management 2023 Certified Foundations Associate**
-  - [Certification Details]([Oracle_Cloud_Data_Management_Certificate_Link](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4807253&trackId=OCIF2023CA&key=b2a796b6640a0121062aaa5c2950d4fa55cfd514))
+  - ([Oracle_Cloud_Data_Management_Certificate_Link](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4807253&trackId=OCIF2023CA&key=b2a796b6640a0121062aaa5c2950d4fa55cfd514))
 
 
 ## Skills
