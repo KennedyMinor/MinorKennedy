@@ -1,7 +1,13 @@
 <h1 align="center">Hi I'm Kennedy</h1>
 
 <h3 align="left">About me:</h3>
-<h1> am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.</h1>
+<h4>I am MInor Kennedy, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.</h4>
+
+<h3 align="left">Education:</h3>
+<h4>BS Information Technology
+New Era University
+2021-Present</h4>
+
 <h3 align="left">Education:</h3>
 <h1>BS Information Technology</h1>
 
